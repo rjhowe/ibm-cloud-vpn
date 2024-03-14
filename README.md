@@ -5,7 +5,7 @@ This has been updated with some simple scripts and prompt for password (to not l
 
 https://www.ibm.com/cloud/vpn-access
 
-PreBuilt Images: [quay.io/rjhowe/ibm-cloud-vpn](quay.io/rjhowe/ibm-cloud-vpn)
+PreBuilt Images: [quay.io/rjhowe/ibm-cloud-vpn](https://quay.io/rjhowe/ibm-cloud-vpn)
 
 ### build
 
